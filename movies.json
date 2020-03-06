@@ -1,4 +1,4 @@
-[
+{ "movies" :[
     {
         "id": "038001",
         "title": "300 Rise of an Empire",
@@ -149,4 +149,4 @@
         "title": "",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038030.jpg"
     }
-]
+]}
