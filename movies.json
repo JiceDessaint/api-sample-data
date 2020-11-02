@@ -116,7 +116,7 @@
     },
     {
         "id": "038024",
-        "title": "",
+        "title": "The Mortal Instruments: City of Bones",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038024.jpg"
     },
     {
@@ -131,22 +131,22 @@
     },
     {
         "id": "038027",
-        "title": "",
+        "title": "The Jungle Book",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038027.jpg"
     },
     {
         "id": "038028",
-        "title": "",
+        "title": "The Abandoned",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038028.jpg"
     },
     {
         "id": "038029",
-        "title": "",
+        "title": "Passengers",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038029.jpg"
     },
     {
         "id": "038030",
-        "title": "",
+        "title": "The Ides of March",
         "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038030.jpg"
     }
 ]}
